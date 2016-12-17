@@ -1,12 +1,10 @@
-# _{Application Name}_
+# _Rock Paper Scissors_
 
-#### _{Brief description of application}, {Date of current version}_
-
-#### By _**Ryan Loos**_
+#### _By: Ayana Powell_
 
 ## Description
 
-_{This is a detailed description of your application. Its purpose and usage.  Give as much detail as needed to explain what the application does, and any other information you want users or other developers to have. }_
+_A recreation of rock paper scissors game_
 
 ## Setup/Installation Requirements
 
@@ -30,17 +28,13 @@ _You must host this webpage locally_
 * _if player1 and player2 enter same thing, its a tie_
 
 
-
-
-
-
 ## Known Bugs
 
 _None yet_
 
 ## Support and contact details
 
-_Ryan Loos: Rloos289@gmail.com_
+_Email for questions at ayanapowell1@gmail.com_
 
 ## Technologies Used
 
@@ -53,4 +47,4 @@ SILEX 1.1_
 
 *This webpage is licensed under the GPL license.*
 
-Copyright (c) 2016 **_Ryan Loos_**
+Copyright (c) 2016 **_Ayana Powell_**
